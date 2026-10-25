@@ -1,4 +1,4 @@
-The Core Concept of Computer Hardware
+# The Core Concept of Computer Hardware
 
 ## Summary
-This repository contains academic assignments on computer hardware, covering a wide range of topics, including internal components, input and output devices, storage devices, cables, connectors, and ports. It includes information about their types, functions, features, and applications to develop a better understanding of computer hardware fundamentals.
+This repository contains academic assignments on computer networking, covering topics such as network types, topologies, network devices, OSI and TCP/IP models, IP addressing, subnetting, routing, switching, VLANs, network protocols, cables, and network security. These assignments focus on understanding networking concepts, their functions, configurations, and practical applications.
